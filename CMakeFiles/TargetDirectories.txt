@@ -1,0 +1,3 @@
+/home/sonlt373/Desktop/SoNg/AI_cam_tracking/dev/sort-yolov5/CMakeFiles/sort.dir
+/home/sonlt373/Desktop/SoNg/AI_cam_tracking/dev/sort-yolov5/CMakeFiles/edit_cache.dir
+/home/sonlt373/Desktop/SoNg/AI_cam_tracking/dev/sort-yolov5/CMakeFiles/rebuild_cache.dir
